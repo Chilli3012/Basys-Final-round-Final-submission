@@ -1,0 +1,23 @@
+{
+      
+      "fname": "Sarah",
+      "lname":"Johnson",
+      "dob": "1990-08-15",
+      "age": 32,
+      "gender": "Female",
+      "id": 78901234,
+      "height": 165, 
+      "weight": 68, 
+      "bloodGroup": "B+",
+      "BMI": 22.5,
+      "medicalhis":{
+        "disease":"[Diabetes,High Blood Pressure]",
+        "allergies":"[Pollen,Latex]"
+      },
+      "familyhis":{
+        "fatherside":"[High Blood Pressure,Bastritis]",
+        "motherside":"[Diabetes]"
+      },
+      "status":"Pending"
+
+}

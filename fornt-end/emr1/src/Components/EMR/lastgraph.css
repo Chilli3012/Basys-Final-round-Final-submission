@@ -1,0 +1,123 @@
+.progress-bar-chart-container {
+    background-color: #e0e0e0;
+    height: 20px;
+    width: 50%;
+    display: flex;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .progress-bar:nth-child(1) {
+    background-color: #00bfff;
+  }
+  
+  .progress-bar:nth-child(2) {
+    background-color: #ff6347;
+  }
+  
+  .progress-bar:nth-child(3) {
+    background-color: #9acd32;
+  }
+  
+  .progress-bar-lab
+  .progress-bar-chart-container {
+    background-color: #e0e0e0;
+    height: 20px;
+    width: 50%;
+    /* border-radius: 10px; */
+    display: flex;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    /* border-radius: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .progress-bar:nth-child(1) {
+    background-color: #00bfff;
+  }
+  
+  .progress-bar:nth-child(2) {
+    background-color: #ff6347;
+  }
+  
+  .progress-bar:nth-child(3) {
+    background-color: #9acd32;
+  }
+
+  .progress-bar-chart-container {
+    background-color: #e0e0e0;
+    height: 20px;
+    width: 50%;
+    border-radius: 10px;
+    display: flex;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    /* border-radius: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .progress-bar:nth-child(1) {
+    background-color: #00bfff;
+  }
+  
+  .progress-bar:nth-child(2) {
+    background-color: #ff6347;
+  }
+  
+  .progress-bar:nth-child(3) {
+    background-color: #9acd32;
+  }
+
+  .progress-bar-chart-container {
+    background-color: white;
+    height: 20px;
+    width: 100%;
+    /* border-radius: 10px; */
+    display: flex;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    /* border-radius: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .progress-bar:nth-child(1) {
+    background-color: #010151;
+  }
+  
+  .progress-bar:nth-child(2) {
+    background-color: #3c3cb8;
+  }
+  
+  .progress-bar:nth-child(3) {
+    background-color: #bfcbe6;
+  }
+  .progress-bar-label {
+    color: white;
+    padding: 0 10px;
+  }
+  
